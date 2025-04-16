@@ -188,7 +188,7 @@
 
     }  
 
-    @media screen and (max-width: 500px) {  
+    @media screen and (max-width: 430px) {  
   
       .topo{ 
         display: none;
@@ -201,21 +201,24 @@
       img {  
         margin: 0;  
         padding: 0;
-        max-width: 500px;
-        max-height: 494px; 
-        margin-left: 30px;  
-        margin-top: 25px;
+        max-width: 175px;
+        max-height: 154px; 
+        margin-left: 10px;  
+        margin-top: 10px;
       }       
       
       h1 {  
-         font-size: 100px;  
-         margin-left: -618px;  
+         font-size: 30px;  
+         margin-left: -628px;  
+         bottom: 40px;
          max-width: 380px 20px;
          
         }      
 
       h2 {  
-          margin-left: -570px;  
+          font-size: 20px;
+          margin-left: -620px;  
+          margin-top: -80px;
           max-width: 380px 20px;
       }
    
@@ -224,7 +227,13 @@
       }
        
     .seg-button {  
-        margin-left: -590px; 
+        margin-left: -610px; 
+        margin-top: 20px;
+        font-size: 30px; 
+        font-size: 20px;
+        border-radius: 15px;
+        width: 120px;
+        height: 40px;
         max-width: 380px 20px;
     }
 
