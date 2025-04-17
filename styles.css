@@ -142,8 +142,12 @@
       transform: scale(1.05);
   }
 
-    @media screen and (max-width: 800px) {
-      
+    @media (min-width: 770px) and (max-width: 1020px) {
+        
+     *{  
+        background-color: black;
+     }
+
      .topo{ 
        display: none;
      }
@@ -156,22 +160,24 @@
         max-width: 708px;
         max-height: 601px;
         margin-left: 100px;
-        margin-top: 0px;
+        margin-top: 0px;  
       }
 
       h1 {   
         position: relative;
         margin-left: -541px;
-        margin-top: 405px;
-        font-size: 100px; 
+        margin-top: 393px;
+        font-size: 100px;  
+        color: aquamarine;
       }
   
      h2 {  
-      margin-top: 65px;
-      margin-left: -525px;
+      margin-top: 57px;
+      margin-left: -497px;
       height: 22px;
       font-size: 56px;
-      font-weight: 700;
+      font-weight: 700; 
+      color: aquamarine;
      }
 
     p {  
@@ -179,8 +185,8 @@
     }
 
     .seg-button {  
-      margin-left: -529px;
-      margin-top: 90px;
+      margin-left: -522px;
+      margin-top: 80px;
       width: 453px;
       height: 126px; 
       font-size: 57px;
@@ -188,8 +194,14 @@
 
     }  
 
-    /*@media screen and (max-width: 500px) {  
+    @media (max-width: 700px) {  
       
+       * {   
+          border-color: blueviolet;
+        }
+
+            
+
       .topo{ 
         display: none;
       }
@@ -199,28 +211,25 @@
       }
   
       img {  
-        margin: 0;  
-        padding: 0; 
-        max-width: 220px;
-        max-height: 200px; 
-        margin-left: 60px; 
-        margin-top: 10px;
+        margin: 0 auto;
+        padding: 0;
+        max-width: 385px;
+        max-height: 374px;
+        margin-left: 15px;
+        margin-top: 5px;
       }       
       
       h1 {  
-         font-size: 60px;  
-         
-         margin-left: -628px;  
-         bottom: 85px;
-         max-width: 380px 20px;
+        font-size: 60px;
+        margin-left: -594px;
+        margin-top: 382px;
          
         }      
 
       h2 {  
-          font-size: 40px;
-          margin-left: -620px;  
-          margin-top: -80px;
-          max-width: 380px 20px;
+        font-size: 40px;
+        margin-left: -576px;
+        margin-top: 6px;
       }
    
       p {  
@@ -228,13 +237,12 @@
       }
        
     .seg-button {  
-        margin-left: -610px; 
-        margin-top: 50px; 
-        font-size: 40px;
-        border-radius: 30px;
-        width: 230px;
-        height: 70px;
-        max-width: 380px 20px;
+      margin-left: -564px;
+      margin-top: 6px;
+      font-size: 40px;
+      border-radius: 30px;
+      width: 230px;
+      height: 70px; 
     }
 
     }  
