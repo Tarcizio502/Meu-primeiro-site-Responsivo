@@ -195,7 +195,7 @@
 
     }  
 
-    @media (max-width: 450px) {  
+    @media (max-width: 750px) {  
       
        * {   
           box-sizing: border-box;
@@ -215,36 +215,36 @@
       img {  
         margin: 0 auto;
         padding: 0;
-        max-width: 385px;
-        max-height: 374px;
-        margin-left: 15px;
-        margin-top: 5px;
+        max-width: 454px;
+        max-height: 430px;
+        margin-left: 101px;
+        margin-top: 22px;
       }       
       
       h1 {  
-        font-size: 60px;
-        margin-left: -594px;
-        margin-top: 382px;
+        font-size: 70px;
+        margin-left: -474px;
+        margin-top: 400px;
          
         }      
 
       h2 {  
-        font-size: 40px;
-        margin-left: -576px;
-        margin-top: 6px;
-      }
+        font-size: 46px;
+        margin-left: -456px;
+        margin-top: 30px;
+    }
    
       p {  
         display: none;
       }
        
     .seg-button {  
-      margin-left: -564px;
-      margin-top: 6px;
-      font-size: 40px;
-      border-radius: 30px;
-      width: 230px;
-      height: 70px; 
+      margin-left: -446px;
+      margin-top: 43px;
+      font-size: 52px;
+      border-radius: 33px;
+      width: 289px;
+      height: 73px;
     }
 
     }  
