@@ -162,13 +162,13 @@
       h1 {   
         position: relative;
         margin-left: -541px;
-        margin-top: 455px;
+        margin-top: 405px;
         font-size: 100px; 
       }
   
      h2 {  
-      margin-top: 128px;
-      margin-left: -478px;
+      margin-top: 65px;
+      margin-left: -525px;
       height: 22px;
       font-size: 56px;
       font-weight: 700;
@@ -179,10 +179,10 @@
     }
 
     .seg-button {  
-      margin-left: -477px;
+      margin-left: -529px;
       margin-top: 90px;
       width: 453px;
-      height: 126px;
+      height: 126px; 
       font-size: 57px;
     }
 
