@@ -145,6 +145,7 @@
     @media (min-width: 770px) and (max-width: 1020px) {
         
      *{  
+        box-sizing: border-box;
         background-color: black;
      }
 
@@ -197,6 +198,7 @@
     @media (max-width: 700px) {  
       
        * {   
+          box-sizing: border-box;
           border-color: blueviolet;
         }
 
