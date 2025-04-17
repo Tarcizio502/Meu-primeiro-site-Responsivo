@@ -188,8 +188,8 @@
 
     }  
 
-    @media screen and (max-width: 500px) {  
-  
+    /*@media screen and (max-width: 500px) {  
+      
       .topo{ 
         display: none;
       }
@@ -237,5 +237,5 @@
         max-width: 380px 20px;
     }
 
-    }
+    }  
 
