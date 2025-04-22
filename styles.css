@@ -7,6 +7,9 @@
     
     }
 
+     
+
+
      header {  
           margin: 20px 42px;   
      }
@@ -142,7 +145,7 @@
       transform: scale(1.05);
   }
 
-    @media (min-width: 770px) and (max-width: 1020px) {
+    @media (min-width: 670px) and (max-width: 1000px) {
         
      *{  
         box-sizing: border-box;
@@ -160,13 +163,13 @@
       img { 
         max-width: 708px;
         max-height: 601px;
-        margin-left: 100px;
+        margin-left: 131px;
         margin-top: 0px;  
       }
 
       h1 {   
         position: relative;
-        margin-left: -541px;
+        margin-left: -534px;
         margin-top: 393px;
         font-size: 100px;  
         color: aquamarine;
@@ -174,7 +177,7 @@
   
      h2 {  
       margin-top: 57px;
-      margin-left: -497px;
+      margin-left: -485px;
       height: 22px;
       font-size: 56px;
       font-weight: 700; 
@@ -186,7 +189,7 @@
     }
 
     .seg-button {  
-      margin-left: -522px;
+      margin-left: -505px;
       margin-top: 80px;
       width: 453px;
       height: 126px; 
@@ -223,14 +226,14 @@
       
       h1 {  
         font-size: 74px;
-        margin-left: -560px;
+        margin-left: -510px;
         margin-top: 431px;
          
         }      
 
       h2 {  
         font-size: 57px;
-        margin-left: -553px;
+        margin-left: -523px;
         margin-top: 78px;
     }
    
@@ -239,7 +242,7 @@
       }
        
     .seg-button {  
-      margin-left: -529px;
+      margin-left: -486px;
       margin-top: 106px;
       font-size: 52px;
       border-radius: 33px;
