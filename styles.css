@@ -40,7 +40,8 @@
       font-size: 16px;  
       line-height: 24px;  
       letter-spacing: 1px;  
-      color: rgba(255, 255, 255, 1);
+      color: rgba(255, 255, 255, 1); 
+      filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.25));
       transition: transition 0.02s;   
      }  
 
@@ -138,6 +139,7 @@
        border-radius: 40px;  
        border: none;  
        cursor: pointer;  
+       filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.25));
        transition: transition 0.02s;
      }  
 
@@ -198,7 +200,7 @@
 
     }  
 
-    @media (max-width: 750px) {  
+    @media (max-width: 669px) {  
       
        * {   
           box-sizing: border-box;
@@ -226,9 +228,9 @@
       
       h1 {  
         font-size: 74px;
-        margin-left: -498px;
+        margin-left: -523px;
         margin-top: 431px;
-         
+        letter-spacing: 3px; 
         }      
 
       h2 {  
