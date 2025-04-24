@@ -223,9 +223,16 @@
         max-width: 454px;
         max-height: 430px;
         margin-left: 101px;
-        margin-top: 26px;
+        margin-top: 46px;
       }       
       
+      .hpb {  
+        margin: 0;
+        padding: 0;
+        margin-left: 650px;
+        margin-top: -306px;
+      }
+
       h1 {  
         font-size: 74px;
         margin-left: -523px;
