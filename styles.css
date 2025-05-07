@@ -138,6 +138,8 @@ p:hover {
 
 @media (min-width: 670px) and (max-width: 1000px) {
   * {
+    max-width: 100%;
+    max-height: 100%;
     box-sizing: border-box;
     background-color: black;
   }
@@ -151,8 +153,8 @@ p:hover {
   }
 
   img {
-    width: 100%;
-    height: 601px;
+    max-width: 100%;
+    max-height: 601px;
     margin-left: 168px;
     margin-top: 0px;
   }
@@ -189,6 +191,8 @@ p:hover {
 
 @media (max-width: 669px) {
   * {
+    max-width: 100%;
+    max-height: 100%;
     box-sizing: border-box;
     background-color: blueviolet;
   }
@@ -204,8 +208,8 @@ p:hover {
   img {
     margin: 0 auto;
     padding: 0;
-    width: 100%;
-    height: 430px;
+    max-width: 100%;
+    max-height: 430px;
     margin-left: 101px;
     margin-top: 46px;
   }
