@@ -187,7 +187,7 @@ p:hover {
   }
 }
 
-@media (max-width: 669vw) {
+@media (max-width: 669px) {
   * {
     box-sizing: border-box;
     background-color: blueviolet;
