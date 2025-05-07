@@ -138,8 +138,6 @@ p:hover {
 
 @media (min-width: 670px) and (max-width: 1000px) {
   * {
-    width: 100vw;
-    height: 100vh;
     box-sizing: border-box;
     background-color: black;
   }
@@ -191,8 +189,6 @@ p:hover {
 
 @media (max-width: 669px) {
   * {
-    width: 100vw;
-    height: 100vh;
     box-sizing: border-box;
     background-color: blueviolet;
   }
