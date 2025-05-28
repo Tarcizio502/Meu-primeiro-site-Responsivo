@@ -5,3 +5,4 @@ O layout foi construído utilizando HTML e CSS, com atenção especial ao uso de
 
 💡 Projeto desenvolvido com orientação do curso Dev Club, como parte da minha jornada de transição carreira.</p> 
 <br> 
+<img src="https://github.com/user-attachments/assets/32022fbc-481c-4583-b42e-4faffcec44b2" />
