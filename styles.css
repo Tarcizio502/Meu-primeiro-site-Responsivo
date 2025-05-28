@@ -158,6 +158,8 @@ p:hover {
 
 @media (min-width: 670px) and (max-width: 1000px) {
   * {
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
     background-color: black;
   }
@@ -173,21 +175,28 @@ p:hover {
   img {
     max-width: 100%;
     max-height: 601px;
-    margin-left: 168px;
-    margin-top: 0px;
+    display: block;
+    margin-left: auto;
+    margin-top: auto;
+  }
+
+  .hpb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   h1 {
     position: relative;
-    margin-left: -497px;
-    margin-top: 393px;
+    margin-left: auto;
+    margin-right: auto;
     font-size: 100px;
     color: aquamarine;
   }
 
   h2 {
-    margin-top: 57px;
-    margin-left: -452px;
+    position: absolute;
+    margin-top: 285px;
     height: 22px;
     font-size: 56px;
     font-weight: 700;
@@ -199,8 +208,8 @@ p:hover {
   }
 
   .seg-button {
-    margin-left: -477px;
-    margin-top: 80px;
+    position: absolute;
+    margin-top: 704px;
     width: 453px;
     height: 126px;
     font-size: 57px;
